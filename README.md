@@ -11,6 +11,21 @@ It bridges the gap between utility and showcase by transforming your code reposi
 
 Built with Flutter and powered by a robust hybrid backend of Firebase and Supabase, DevDeck provides a seamless ecosystem where project milestones translate into visual rewards.
 
+<h2 align="center">🎬 DevDeck Demo Video Explanation</h2>
+
+<p align="center">
+  <a href="https://youtu.be/qnl1yBkTQKw">
+    <img src="https://img.youtube.com/vi/qnl1yBkTQKw/maxresdefault.jpg"
+         alt="DevDeck Demo Video"
+         width="720">
+  </a>
+</p>
+
+
+
+▶️ Click the preview to watch the full DevDeck walkthrough on YouTube.
+
+
 # 📸 Snapshots
 
 (Place screenshots of your app here: Login Screen, Feed, Project Detail, Chat)
