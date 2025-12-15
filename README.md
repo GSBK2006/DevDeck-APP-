@@ -1,4 +1,9 @@
 # DevDeck 
+<p align="center">
+  <img src="assets/logo.png" width="360" />
+</p>
+
+<h1 align="center">DevDeck 🚀</h1>
 
 DevDeck is a next-generation Project Management Portal designed to gamify the developer experience. 
 
@@ -9,14 +14,26 @@ Built with Flutter and powered by a robust hybrid backend of Firebase and Supaba
 # 📸 Snapshots
 
 (Place screenshots of your app here: Login Screen, Feed, Project Detail, Chat)
+## 📸 App Screenshots
 
-Login Screen
+<p align="center">
+  <img src="assets/Login.png" width="200" />
+  <img src="assets/feed_page.jpeg" width="200" />
+  <img src="assets/mint.jpeg" width="200" />
+  <img src="assets/Customize.png" width="200" />
+  <img src="assets/Network.jpeg" width="200" />
+</p>
 
-Global Feed
+<p align="center">
+  <b>Login</b> &nbsp;&nbsp;
+  <b>Feed</b> &nbsp;&nbsp;
+  <b>Mint</b> &nbsp;&nbsp;
+  <b>Customize</b> &nbsp;&nbsp;
+  <b>Network</b>
+</p>
 
-Project Minting
 
-Real-time Chat
+
 
 
 
@@ -51,6 +68,16 @@ Description: Achieved by consistent updates and document uploads. The card gains
 Level: Masterpiece (50+ Boosts)
 
 Description: The elite tier. Projects that reach high community engagement and completion status turn Gold. These cards stand out in the Global Feed with special particle effects.
+
+## Lookup Preview 
+
+### 🎥 Video Demo
+
+
+▶️ [Click here to play the DevDeck demo](https://github.com/GSBK2006/DevDeck-APP-/blob/main/assets/video%201%20.mp4)
+
+
+
 
 ## How Levels Work
 
